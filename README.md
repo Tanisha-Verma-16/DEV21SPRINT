@@ -2,6 +2,9 @@
 
 ZenFlow is a productivity enhancer application designed to help you manage your tasks, track your mood, and improve your memory. Built using HTML, CSS, and JavaScript, ZenFlow integrates various features to ensure a holistic approach to productivity and well-being.
 
+## Demo Video
+
+[![Watch the video](https://youtu.be/zHKSbDH8qCQ)]
 
 ## Features
 
