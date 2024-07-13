@@ -4,7 +4,8 @@ ZenFlow is a productivity enhancer application designed to help you manage your 
 
 ## Demo Video
 
-[![Watch the video](https://youtu.be/zHKSbDH8qCQ)]
+[![Watch the video](https://img.youtube.com/vi/zHKSbDH8qCQ/maxresdefault.jpg)](https://youtu.be/zHKSbDH8qCQ)
+
 
 ## Features
 
