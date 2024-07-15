@@ -41,7 +41,7 @@ You need a web browser to run ZenFlow. The project is built using:
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/yourusername/zenflow.git
+    https://github.com/Tanisha-Verma-16/DEV21SPRINT.github.io.git
     ```
 2. Navigate to the project directory:
     ```sh
